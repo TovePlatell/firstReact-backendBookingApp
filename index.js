@@ -8,6 +8,8 @@ const cors = require("cors");
 
 const stripe = require('stripe')('sk_test_51Ix6MXDhSyK2k5ddlqKTEMQZsJJPDwZVjGjxWfnXzSKSPTF6pnqAWweGelMB3F1jQWmBGz5LC5OPExHyW8GW2f7E00TNd61mJQ')
 
+//hej
+
 app.use(cors())
 
 
